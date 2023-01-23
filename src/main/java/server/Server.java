@@ -19,18 +19,6 @@ public class Server {
     private Logger logger = Logger.getInstance();
     private List<Messages> usersInChat = new CopyOnWriteArrayList<>();
 
-//    public void setServerSocket(ServerSocket serverSocket) {
-//        this.serverSocket = serverSocket;
-//    }
-
-//    public Logger getLogger() {
-//        return logger;
-//    }
-
-//    public void setLogger(Logger logger) {
-//        this.logger = logger;
-//    }
-
     public boolean startServer() {
         int port = Integer.parseInt(ServerSettings.getProperty("port"));
         try {

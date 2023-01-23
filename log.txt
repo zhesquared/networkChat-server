@@ -1,12 +1,3 @@
-[INFO][2023-01-21, 17:05:25] * SERVER STARTED *
-[INFO][2023-01-21, 17:05:37] * zhe has joined the chat *
-[MESSAGE][2023-01-21, 17:05:46] zhe says: hui
-[MESSAGE][2023-01-21, 17:05:54] zhe says: lololo
-[INFO][2023-01-21, 17:05:58] * zhe leaving the chat *
-info-[2023-01-22, 08:50:02] * SERVER STARTED *
-info-'22-01-2023, 08:59:41' * SERVER STARTED *
-info-'22-01-2023, 09:15:18' * SERVER STARTED *
-info-'22-01-2023, 11:13:07' * SERVER STARTED *
 info-'22-01-2023, 11:16:04' server started
 info-'22-01-2023, 11:30:39' server started
 info-'22-01-2023, 11:31:02' server started
@@ -22,3 +13,11 @@ message-'22-01-2023, 11:52:04' username: test
 info-'22-01-2023, 11:52:27' server started
 info-'22-01-2023, 11:53:17' server started
 info-'22-01-2023, 11:53:27' server started
+message-'23-01-2023, 22:05:56' username: test
+info-'23-01-2023, 22:12:35' server started
+info-'23-01-2023, 22:12:53' 'hello' has joined the chat
+message-'23-01-2023, 22:12:57' hello: lol
+info-'23-01-2023, 22:47:10' server started
+info-'23-01-2023, 22:47:24' 'your name' has joined the chat
+message-'23-01-2023, 22:47:30' your name: test test
+info-'23-01-2023, 22:47:39' 'your name' leaving this chat

@@ -21,10 +21,6 @@ public class Logger {
         }
     }
 
-//    public void setOut(PrintWriter out) {
-//        this.out = out;
-//    }
-
     public synchronized boolean log(String message, LogType type, boolean timeIsSet) {
         try (FileWriter fileWriter = new FileWriter(log, true);
              BufferedWriter bufferedWriter = new BufferedWriter(fileWriter)) {
