@@ -124,11 +124,11 @@ public class Messages implements Runnable {
         }
     }
 
-    public String formatEvent(String msg) {
-        return getCurrentTime() + msg;
+    public String formatEvent(String message) {
+        return getCurrentTime() + message;
     }
 
-    public String formatMessage(String msg) {
-        return getCurrentTime() + username + ": " + msg;
+    public String formatMessage(String message) {
+        return getCurrentTime() + username + ": " + message;
     }
 }
